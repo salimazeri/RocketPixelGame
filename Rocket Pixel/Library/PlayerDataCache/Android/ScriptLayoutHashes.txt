@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/omen/Desktop/rocket_pixel_2.apk
+C:/Users/omen/Desktop/rocket_pixel/rocket_pixel_2.apk
 SceneListBegin?
 Assets/Scenes/rocket 2.unity
 Assets/Scenes/GameOver.unity
